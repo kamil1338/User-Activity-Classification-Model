@@ -1,0 +1,4 @@
+,0
+0,Other
+1,Running
+2,Walking
